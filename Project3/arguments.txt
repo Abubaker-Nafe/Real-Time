@@ -1,0 +1,14 @@
+NumOfDifferentMedicines=2
+NumOfLiquidProductionLines=2
+NumOfPillProductionLines=3
+NumOfEmployeesPerLine=2
+PillFailurePercentage=20
+LiquidFailurePercentage=20
+MinLineSpeed=5
+MaxLineSpeed=15
+MaxMedicineProduce=25
+RightNumberOfPlasticContainersInPackage=3
+SwapEmployeeWhenProductionExceedsPackagingBy=3
+MaxLiquidMedicineOutOfSpec=6
+MaxPillMedicineOutOfSpec=6
+SimulationTime=300
